@@ -58,9 +58,9 @@
     </div>
 
     <!-- Hosting -->
-    <!-- <div class=" bg-white dark:bg-blueGray-800">
+    <div class=" bg-white dark:bg-blueGray-800">
       <div class="max-w-7xl mx-auto py-8">
-        <div class="flex items-center justify-around flex-row-reverse">
+        <div class="flex items-center justify-around">
           <div class="w-1/2">
             <div class="text-4xl text-blueGray-700 dark:text-blueGray-300">
               Hosting
@@ -76,12 +76,12 @@
           </div>
         </div>
       </div>
-    </div> -->
+    </div>
 
     <!-- SEO -->
     <div class=" bg-blueGray-50 dark:bg-blueGray-900">
       <div class="max-w-7xl mx-auto py-8">
-        <div class="flex items-center justify-around">
+        <div class="flex items-center justify-around flex-row-reverse">
           <div class="max-w-7xl mx-auto">
             <div class="text-4xl text-blueGray-700 dark:text-blueGray-300">
               Search Engine Optimization
@@ -100,7 +100,7 @@
     <!-- Marketing -->
     <div class=" bg-white dark:bg-blueGray-800">
       <div class="max-w-7xl mx-auto py-8">
-        <div class="flex items-center justify-around flex-row-reverse">
+        <div class="flex items-center justify-around">
           <div class="w-1/2">
             <div class="text-4xl text-blueGray-700 dark:text-blueGray-300">
               Marketing
@@ -121,7 +121,7 @@
     <!-- Consulting -->
     <div class=" bg-blueGray-50 dark:bg-blueGray-900">
       <div class="max-w-7xl mx-auto py-8">
-        <div class="flex items-center justify-around">
+        <div class="flex items-center justify-around flex-row-reverse">
           <div class="max-w-7xl mx-auto">
             <div class="text-4xl text-blueGray-700 dark:text-blueGray-300">
               Consulting
