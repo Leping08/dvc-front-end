@@ -58,7 +58,7 @@
     </div>
 
     <!-- Hosting -->
-    <div class=" bg-white dark:bg-blueGray-800">
+    <!-- <div class=" bg-white dark:bg-blueGray-800">
       <div class="max-w-7xl mx-auto py-8">
         <div class="flex items-center justify-around flex-row-reverse">
           <div class="w-1/2">
@@ -76,7 +76,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <!-- SEO -->
     <div class=" bg-blueGray-50 dark:bg-blueGray-900">
